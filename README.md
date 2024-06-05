@@ -1,0 +1,1 @@
+Storm Chaser is a Java application designed to analyze and track storm data, focusing particularly on hurricanes along the East Coast. It provides features for extracting storm data from files, categorizing storms based on the Saffir-Simpson scale, sorting them by intensity, and displaying relevant storm information.
